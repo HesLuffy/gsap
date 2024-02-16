@@ -1,3 +1,5 @@
 <template>
-    <h2>index</h2>
+    <div class="flex p-8 container mx-auto">
+        <app-nav class="w-[30rem]" />
+    </div>
 </template>
